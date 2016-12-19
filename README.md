@@ -84,3 +84,5 @@ a:print
 ```
 !!_i:Position 1,15.12,20.0,1;c:,Mustermann,Max,,,,;p:CashCard;a:print_!!
 ```
+
+![Example QR Code](https://github.com/asello/asello-qrcode-api/blob/master/example-qr-code.png?raw=true)
