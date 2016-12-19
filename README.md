@@ -68,6 +68,17 @@ Example:
 p:CashCard
 ```
 
+## command: reference number
+|||||
+---|---|---|---|---|
+command name | r ||||
+parameter 1 | reference number | string | ```"R12345678"```||
+
+Example:
+```
+r:R12345678
+```
+
 ## command: action
 |||||
 ---|---|---|---|---|
