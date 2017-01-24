@@ -83,7 +83,7 @@ r:R12345678
 |||||
 ---|---|---|---|---|
 command name | a ||||
-parameter 1 | name | string('print') | ```"CashCard"```||
+parameter 1 | name | string('print') | ```"print"```||
 
 Example:
 ```
